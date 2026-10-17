@@ -40,19 +40,6 @@ export const VIDEOS = [
   },
   {
     id: 2,
-    slug: "inkpen-labs-ad-01",
-    title: "Inkpen Labs — AI Ad 01",
-    category: "AI Performance Advertising",
-    client: "Inkpen Labs",
-    year: "2026",
-    duration: "0:57",
-    orientation: "portrait",
-    file: "inkpen-labs-ad-01",
-    description:
-      "Scripted and created end to end — concept, script, AI-generated visuals, edit, sound and captions, built as a Meta-ready vertical ad.",
-  },
-  {
-    id: 3,
     slug: "inkpen-labs-ad-02",
     title: "Inkpen Labs — AI Ad 02",
     category: "AI Performance Advertising",
@@ -65,7 +52,7 @@ export const VIDEOS = [
       "The second Inkpen Labs script — a different hook and a different cut of the same production system, so both creatives could be tested against each other.",
   },
   {
-    id: 4,
+    id: 3,
     slug: "myntra-corporate-video",
     title: "Myntra — Corporate Video",
     category: "Corporate Video",
@@ -78,7 +65,7 @@ export const VIDEOS = [
       "An official Myntra corporate video delivered as a video content contractor — concept, production, footage clean-up and the final edit.",
   },
   {
-    id: 5,
+    id: 4,
     slug: "myntra-stepathon",
     title: "Myntra Stepathon",
     category: "Brand Film",
