@@ -27,6 +27,19 @@ import { asset } from "../utils/assets";
 export const VIDEOS = [
   {
     id: 1,
+    slug: "agar-tum-sath-ho",
+    title: "Agar Tum Sath Ho — Microdrama",
+    category: "Microdrama Promo",
+    client: "Self-initiated",
+    year: "2026",
+    duration: "1:44",
+    orientation: "portrait",
+    file: "agar-tum-sath-ho",
+    description:
+      "A self-initiated micro-drama promo — short-form story built for vertical viewing, from script and scene direction through the final edit.",
+  },
+  {
+    id: 2,
     slug: "inkpen-labs-ad-01",
     title: "Inkpen Labs — AI Ad 01",
     category: "AI Performance Advertising",
@@ -39,7 +52,7 @@ export const VIDEOS = [
       "Scripted and created end to end — concept, script, AI-generated visuals, edit, sound and captions, built as a Meta-ready vertical ad.",
   },
   {
-    id: 2,
+    id: 3,
     slug: "inkpen-labs-ad-02",
     title: "Inkpen Labs — AI Ad 02",
     category: "AI Performance Advertising",
@@ -52,7 +65,7 @@ export const VIDEOS = [
       "The second Inkpen Labs script — a different hook and a different cut of the same production system, so both creatives could be tested against each other.",
   },
   {
-    id: 3,
+    id: 4,
     slug: "myntra-corporate-video",
     title: "Myntra — Corporate Video",
     category: "Corporate Video",
@@ -65,7 +78,7 @@ export const VIDEOS = [
       "An official Myntra corporate video delivered as a video content contractor — concept, production, footage clean-up and the final edit.",
   },
   {
-    id: 4,
+    id: 5,
     slug: "myntra-stepathon",
     title: "Myntra Stepathon",
     category: "Brand Film",

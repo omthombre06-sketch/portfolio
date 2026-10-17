@@ -46,6 +46,11 @@ secret*.json
 # /public/project-videos are committed)
 /Project-Videos-originals/
 
+# full-size masters dropped in the repo root (over GitHub's 100 MB limit,
+# so only the web-optimised copy gets committed)
+/*.mp4
+/*.MP4
+
 # full-resolution source images (only the web copies in /public are
 # committed)
 /Project-Image-originals/
